@@ -8,7 +8,7 @@ class App extends Component {
       <div className="App">
     
   <form>
-      <h1>xzxz</h1>
+      <h1>sdlf</h1>
   <label>
     Name :
     <input type="text" name="name" />
